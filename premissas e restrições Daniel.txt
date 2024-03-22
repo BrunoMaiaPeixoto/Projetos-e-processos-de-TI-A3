@@ -1,0 +1,54 @@
+premissas e restrições: Daniel
+
+Principais entregas: 15/03
+		     22
+		     29 fazer o resto	
+Requisitos Iniciais: MOCKUP, 
+
+Responsaveis: Programador: Daniel
+	      Designer: Ana.
+	      Gerente de Projetos: Isabella.
+	      Caixa 2: Bruno
+	      Tester: Juan
+
+Aplicativo de adoção para pets, uma forma de centralizar animais em situação de abandono.
+Situação Atual: Aplicativo em beta, 1.0
+Justi
+Definições: duas telas Adotar
+	    Adotante
+
+Objetivos SMART e critérios de sucesso do projeto
+
+Específico: O objetivo é criar um aplicativo que facilite a adoção de pets em situação de abandono, conectando pessoas que queiram botar aniamis para adoção e animais resgatados a potenciais adotantes em um chat/email (em aberto), de forma eficiente e segura.
+
+Mensurável: O sucesso do projeto será mensurado pelo número de adoções facilitadas pelo aplicativo apos leitura das estatisticas, o número de animais resgatados que encontram um lar permanente e o feedback positivo dos usuários sobre a experiência de adoção.
+
+Alcançável: O objetivo é alcançável dentro do prazo da A3. Será importante estabelecer parcerias com abrigos de animais, pessoas interessadas em botar para adoção, veterinários, possiveis intituições ensino e possivelmente organizações de resgate.
+
+Relevante: Dada a crescente preocupação com o bem-estar animal e a importância da adoção responsável, criar um aplicativo que facilite a adoção de pets em situação de abandono é altamente relevante e impactante. 
+
+Temporal: O projeto terá um cronograma definido para o desenvolvimento do aplicativo, lançamento, testes beta e lançamento oficial. Metas específicas serão estabelecidas para cada fase do projeto, com prazos claros de acordo com o professor.
+
+sucesso do projeto: Aumento geral na adoção de pets na região, e aumento na visibilidade da aplicação.
+
+Fase 1
+Entrega 15/03/2024 
+Pacote de trabalho 1.1.1
+Kick Off/ Inicio de Projeto
+Entrega 1.2
+...
+Fase 2
+Entrega 2.1
+...
+...
+]
+
+Principais requisitos das principais entregas/produtos adicionar o trello
+
+Iniciação:
+Projeto Aprovado: Aprovado dia 13/03/2024 as 20:30
+
+
+
+
+
